@@ -1,0 +1,60 @@
+level 1 - gtVrDuiDfck831PqWsLEZy5gyDz1clto
+level 2 - ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi 
+level 3 - sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+level 4 - Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
+level 5 - iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq 
+level 6 -  aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
+level 7 -  7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
+
+level 8 - DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
+
+		Base64 encoding words end with "==" or "="
+		bin2hex and hex2bin are functions in php
+
+level 9 - W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
+		passthru php function when not sanitized can wreak havoc on the webserver because it allows arbitrary commands to be :E 
+level 10 - nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
+		This is a good link for all the operators used in bash - https://unix.stackexchange.com/questions/159513/what-are-the-shells-control-and-redirection-operators/159514#159514
+
+		# is the character for commenting the rest of the line in bash
+
+level 11 - U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK 
+		This is great! XOR Cipher is the one in which str1 is some secret key string which is used to perform XOR operation to another string. Now, if A XOR B = C then C ^ B = A.
+		We firstly need to find that secret key. We can XOR cookie_data and defaultdata to get key. 
+		We can then replace that secret key with (cookie_data XOR defaultdata) and then switch yes to no and then send that cookie data.
+		FFS, please ensure that base64 encoded data always ends with = sign
+
+level 12 - EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
+
+		Good Level! 
+
+
+level 13 - jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
+
+
+
+
+level 14 - Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1
+	Okayish. We learn that how we can use '--' to comment out the rest of the line in combination with OR 1 = 1 subclause to the select statement, eventually, causing the whole query to become "select * from users"
+
+level 15 - AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J
+	Gem of a level! You learn a lot doing in the language of your choice (node.JS <3). So we have to perform an output based blind-SQL injection which makes the DB assess some condition and 
+
+level 16 - WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
+	Great level from shell scripting point of view. You learn how actually grep works with concatenated strings.
+
+level 17 - 8Ps3H0GWbn5rd9S7GmAdgQNdkhPkq9cw
+	This one was timing based SQL Injection Attack. Pretty good for learning things about SQL queries and conditions. 
+
+
+level 18 - xvKIqDjy4OPv7wCRgDlmj0pFsCsDjhdP
+
+
+level 19 - 4IwIrekcuZlA9OsjOkoUtwU6lhokCPYs
+
+
+
+
+
+
+
