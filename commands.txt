@@ -1,0 +1,4 @@
+ASCII String to Hex : 
+	echo -n "Hello" | od -A n -t x1
+Hex to Ascii : 
+	echo -e "\x41\x41\x41\x41" 						#\x41 = A
